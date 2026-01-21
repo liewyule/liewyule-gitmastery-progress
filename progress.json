@@ -1,0 +1,27 @@
+[
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768584427.940797,
+    "completed_at": 1768584429.473816,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768580989.14358,
+    "completed_at": 1768580992.952115,
+    "comments": [
+      "Exercise is not a Git repository"
+    ],
+    "status": "Error"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1768581015.723918,
+    "completed_at": 1768581017.239193,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
+  }
+]
